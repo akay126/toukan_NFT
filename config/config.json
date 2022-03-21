@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x29be8E36386c6542C39eF0Ac3d12735bc20C6baa",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x29be8E36386c6542C39eF0Ac3d12735bc20C6baa",
+  "NETWORK": {
+    "NAME": "Polygon TestNet",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Toukan NFTs",
+  "SYMBOL": "TOUKAN",
+  "MAX_SUPPLY": 900,
+  "WEI_COST": 4000000000000000,
+  "DISPLAY_COST": 0.004,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea TestNet",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/toukan-nft",
+  "SHOW_BACKGROUND": false
+}
